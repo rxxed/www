@@ -84,6 +84,8 @@ figure.highlight { margin: 5px 0; }
 
 pre { background-color: var(--background-color); border: none; padding: 0; margin: 0; overflow: auto; font-size: 17px; color: var(--text-color); line-height: 1.7 !important; font-family: "PT Mono", monospace !important; }
 
+.highlight { font-family: "PT Mono", monospace !important; }
+
 .highlight .hll { background-color: var(--code-color-2); }
 
 .highlight .c { color: var(--code-color-1); font-style: italic; }
