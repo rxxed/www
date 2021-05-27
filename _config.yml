@@ -1,1 +1,8 @@
-theme: jekyll-theme-midnight
+theme: jekyll-theme-console
+
+header_pages:
+        - index.md
+        - contact.md
+
+style: light
+footer:
