@@ -4,7 +4,7 @@ header_pages:
         - index.md
         - contact.md
 
-style: light
+style: dark
 footer:
 
 plugins:
