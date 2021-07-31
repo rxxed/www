@@ -5,5 +5,5 @@ permalink: /contact
 ---
 
 # Contact
-Email: <raaed@tuta.io>
-Matrix: @radius:matrix.org
+Email   | <raaed@tuta.io>
+Matrix  | @radius:matrix.org
